@@ -18,4 +18,5 @@
 | Problem Name | Problem Link | Solution |
 | ----------- | ------------ | -------- |
 |4A	|[Watermelon](https://codeforces.com/problemset/problem/4/A)| [4A.cpp](./4A.cpp)|
+|71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)|[71A.cpp](./71A.cpp)|
 
