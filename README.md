@@ -12,3 +12,10 @@
 <br>
 <br>
 </div>
+
+
+
+| Problem Name | Problem Link | Solution |
+| ----------- | ------------ | -------- |
+|4A	|[Watermelon](https://codeforces.com/problemset/problem/4/A)| [4A.cpp](./4A.cpp)|
+
