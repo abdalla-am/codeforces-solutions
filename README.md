@@ -19,4 +19,5 @@
 | ----------- | ------------ | --------------| -------- |
 |4A	|[Watermelon](https://codeforces.com/problemset/problem/4/A)| `brute force` `math` | [4A.cpp](./4A.cpp)|
 |71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)|  `strings`  |[71A.cpp](./71A.cpp)|
+|231A | [Team](https://codeforces.com/problemset/problem/231/A)|  `brute force` `greedy`  |[231A.cpp](./231A.cpp)|
 
