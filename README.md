@@ -21,5 +21,6 @@
 |71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)|  `strings`  |[71A.cpp](./71A.cpp)|
 |231A | [Team](https://codeforces.com/problemset/problem/231/A)|  `brute force` `greedy`  |[231A.cpp](./231A.cpp)|
 |282A | [Bit++](https://codeforces.com/problemset/problem/282/A)|  `implementation`  |[282A.cpp](./282A.cpp)|
+|158A | [Next Round](https://codeforces.com/problemset/problem/158/A)|  `*special problem` `implementation`  |[158A.cpp](./158A.cpp)|
 
 
