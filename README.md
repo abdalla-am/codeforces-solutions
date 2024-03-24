@@ -22,7 +22,8 @@
 |231A | [Team](https://codeforces.com/problemset/problem/231/A)|  `brute force` `greedy`  |[231A.cpp](./231A.cpp)|
 |282A | [Bit++](https://codeforces.com/problemset/problem/282/A)|  `implementation`  |[282A.cpp](./282A.cpp)|
 |158A | [Next Round](https://codeforces.com/problemset/problem/158/A)|  `*special problem` `implementation`  |[158A.cpp](./158A.cpp)|
-|50A | [Domino piling](https://codeforces.com/problemset/problem/50/A)|  `*greedy` `math`  |[50A.cpp](./50A.cpp)|
+|50A | [Domino piling](https://codeforces.com/problemset/problem/50/A)|  `greedy` `math`  |[50A.cpp](./50A.cpp)|
+|263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)|  `implementation`  |[263A.cpp](./263A.cpp)|
 
 
 
