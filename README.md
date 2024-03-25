@@ -24,7 +24,8 @@
 |158A | [Next Round](https://codeforces.com/problemset/problem/158/A)|  `*special problem` `implementation`  |[158A.cpp](./158A.cpp)|
 |50A | [Domino piling](https://codeforces.com/problemset/problem/50/A)|  `greedy` `math`  |[50A.cpp](./50A.cpp)|
 |263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)|  `implementation`  |[263A.cpp](./263A.cpp)|
-|112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A)|  `implementation` `strings` |[112A.cpp](./112A.cpp)|
+|339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A)|  `implementation` `greedy` `sortings` `strings`|[339A.cpp](./339A.cpp)|
+
 
 
 
