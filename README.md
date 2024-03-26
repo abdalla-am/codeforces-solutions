@@ -28,6 +28,8 @@
 |281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A)|  `implementation` `strings`  |[281A.cpp](./281A.cpp)|
 |236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A)| `brute force` `implementation` `strings`  |[236A.cpp](./236A.cpp)|
 |791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)| `implementation` |[791A.cpp](./791A.cpp)|
+|266A | [Elephant](https://codeforces.com/problemset/problem/266/A)| `implementation` |[266A.cpp](./266A.cpp)|
+|266A | [Elephant](https://codeforces.com/problemset/problem/266/A)| `implementation` |[266A.cpp](./266A.cpp)|
 
 
 
