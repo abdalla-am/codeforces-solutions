@@ -38,7 +38,7 @@
 |734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A)| `implementation` `strings`|[734A.cpp](./734A.cpp)|
 |41A | [Translation](https://codeforces.com/problemset/problem/41/A)| `implementation` `strings`|[41A.cpp](./41A.cpp)|
 |116A | [Tram](https://codeforces.com/problemset/problem/116/A)| `implementation` |[116A.cpp](./116A.cpp)|
-|116A | [Tram](https://codeforces.com/problemset/problem/116/A)| `implementation` |[116A.cpp](./116A.cpp)|
+|677A | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)| `implementation` |[677A.cpp](./677A.cpp)|
 
 
 
