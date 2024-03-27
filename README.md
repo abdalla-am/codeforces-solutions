@@ -37,6 +37,8 @@
 |110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)| `implementation` |[110A.cpp](./110A.cpp)|
 |734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A)| `implementation` `strings`|[734A.cpp](./734A.cpp)|
 |41A | [Translation](https://codeforces.com/problemset/problem/41/A)| `implementation` `strings`|[41A.cpp](./41A.cpp)|
+|116A | [Tram](https://codeforces.com/problemset/problem/116/A)| `implementation` |[116A.cpp](./116A.cpp)|
+|116A | [Tram](https://codeforces.com/problemset/problem/116/A)| `implementation` |[116A.cpp](./116A.cpp)|
 
 
 
