@@ -30,7 +30,7 @@
 |791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)| `implementation` |[791A.cpp](./791A.cpp)|
 |266A | [Elephant](https://codeforces.com/problemset/problem/266/A)| `implementation` |[266A.cpp](./266A.cpp)|
 |546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)| `implementation` `brute force` `math` |[546A.cpp](./546A.cpp)|
-
+|59A | [Word](https://codeforces.com/problemset/problem/59/A)| `implementation` `strings`|[59A.cpp](./59A.cpp)|
 
 
 
