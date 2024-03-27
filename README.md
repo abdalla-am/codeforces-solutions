@@ -31,6 +31,8 @@
 |266A | [Elephant](https://codeforces.com/problemset/problem/266/A)| `implementation` |[266A.cpp](./266A.cpp)|
 |546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)| `implementation` `brute force` `math` |[546A.cpp](./546A.cpp)|
 |59A | [Word](https://codeforces.com/problemset/problem/59/A)| `implementation` `strings`|[59A.cpp](./59A.cpp)|
+|977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/997/A)| `implementation` |[997A.cpp](./997A.cpp)|
+|59A | [Word](https://codeforces.com/problemset/problem/59/A)| `implementation` `strings`|[59A.cpp](./59A.cpp)|
 
 
 
