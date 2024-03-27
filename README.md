@@ -34,6 +34,7 @@
 |977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/997/A)| `implementation` |[997A.cpp](./997A.cpp)|
 |59A | [Word](https://codeforces.com/problemset/problem/59/A)| `implementation` `strings`|[59A.cpp](./59A.cpp)|
 |977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)| `implementation` |[977A.cpp](./977A.cpp)|
+|110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)| `implementation` |[110A.cpp](./110A.cpp)|
 |59A | [Word](https://codeforces.com/problemset/problem/59/A)| `implementation` `strings`|[59A.cpp](./59A.cpp)|
 
 
